@@ -60,7 +60,7 @@ onUnmounted(() => {
 
 <template>
   <div class="calculator">
-    <h1>Calculatrice Vue.js</h1>
+    <h1>Calculatrice</h1>
 
     <input
       class="display"
